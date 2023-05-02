@@ -1,3 +1,5 @@
 dataset/
 train_images/
 generated_images/
+mnist_train_images/
+mnist_generated_images/
